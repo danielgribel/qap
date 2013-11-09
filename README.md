@@ -1,0 +1,4 @@
+qap
+===
+
+Quadratic assignment problem
